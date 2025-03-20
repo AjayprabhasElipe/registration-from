@@ -1,0 +1,46 @@
+# Byte-compiled / cached
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual environment
+venv/
+env/
+*.venv
+
+# Dependency directory
+pip-wheel-metadata/
+*.egg-info/
+dist/
+build/
+
+# Logs & Debugging
+*.log
+logs/
+debug.log
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment variables
+.env
+*.env
+
+# Database files
+*.sqlite3
+*.db
+
+# Docker
+*.tar
+docker-compose.override.yml
+
+# Node modules (if applicable)
+node_modules/
+
+# Flask session and cache
+instance/
+*.cache/
